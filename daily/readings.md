@@ -1,4 +1,4 @@
-## 15.04.2014
+п»ї## 15.04.2014
 
-http://scrumtrainingseries.com/ - просмотр видео и прохождение тестов по SCRUM
+http://scrumtrainingseries.com/ - РїСЂРѕСЃРјРѕС‚СЂ РІРёРґРµРѕ Рё РїСЂРѕС…РѕР¶РґРµРЅРёРµ С‚РµСЃС‚РѕРІ РїРѕ SCRUM
 - Introduction to Scrum
